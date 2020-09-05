@@ -1,1 +1,0 @@
-# Miksi emme käytä web-ohjelmointiin netissä yleisesti käytössä olevia kieliä, vaan jotain ihmeen Markdownia?
