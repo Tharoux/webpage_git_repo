@@ -17,3 +17,7 @@ Proseduurit toteutettiin suoraan tietokannan luovaan koodiin, jolloin niitä ei 
 Ymmärrykseni RESTistä, Expressistä ja Node.js'stä kasvoi ja opein jotenkuten myös käyttämään PostMania. Mielestäni **kirjallista** ohjeistusta näistä olisi voinut olla enemmän ja selkeämmin kirjoitettuna.
 
 Mikäli tulevaisuudessa tulen työskentelemään APIen kanssa (epätodennäköistä), suunnittelisin ja toteuttaisin ne varmaan hieman eri tavalla, koska tämä tapa tuntui kömpelöhköltä.
+
+## 26.9.2020
+
+Tein frontendin puhelinluettelolle. JSON-osuus ja tietokannasta hakeminen oli uutta, kuten myös toiminnallinen CSS. Jälkimmäisestä olen ollut tietoinen, mutten ikinä kokeillut.
