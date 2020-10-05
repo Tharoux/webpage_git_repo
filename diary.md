@@ -21,3 +21,11 @@ Mikäli tulevaisuudessa tulen työskentelemään APIen kanssa (epätodennäköis
 ## 26.9.2020
 
 Tein frontendin puhelinluettelolle. JSON-osuus ja tietokannasta hakeminen oli uutta, kuten myös toiminnallinen CSS. Jälkimmäisestä olen ollut tietoinen, mutten ikinä kokeillut.
+
+## 5.10.2020
+
+Rakensin tietokannan ja osittain REST-backendin ohjelmalle. Hankaluuksia tuotti POST-metodin aikaisempi väärin ymmärrys. Jokaisen selaimen FETCH API:lla tämäkin selvisi. Yritin aluksi siis luoda POST-metodia siten, että URL koostuu tarvittavista tiedoista, jolloin tietenkin urheilijan kuvan www-osoite aiheutti ongelmia. Nyt POST toteutus tapahtuu HTML `<forms>` + FETCH + JSON.
+
+Seuraavaksi jatkan backendin loppuun (päivitys ja poisto), jonka jälkeen luodaan vastaavat FETCH API -toteutukset niille.
+
+Tämän jälkeen suoritan sivuston varsinaisen rakenteen suunnittelun ja Bootstrapin soveltamisen.
