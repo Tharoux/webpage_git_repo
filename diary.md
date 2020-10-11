@@ -43,3 +43,7 @@ Kun kaikki oli saatu toimimaan, oli aika säätää bootstrapin ja tavallisen CS
 Bootstrapin CSS on myös paikoitellen ärsyttävää käyttää, kun jokaiseen elementtiin pitää laittaa sama class, sen sijaan että tekisi oman CSS-tiedoston, jossa voisi tarkemmin sorvia tyylit kohdileen. Toistaiseksi ainoa positiivinen kokemus Bootstrapin CSS'sta ja jQuerysta on drop-down menun tekeminen, joka tosin olisi sekin onnistunut helpommin tavallisella CSS'lla ja jQuerylla.
 
 Kaiken kaikkiaan opein, että frameworkit ovat turhan rajoittavia omalta osaltani, mutta onneksi en niiden kanssa tule olemaan tekemisissä tämän kurssin ulkopuolella. Tälle kurssille vaadittavan ePortfolion tulen tekemään staattisena HTML-sivustona, jossa kuitenkin käytetään vaadittua Bootstrapia.
+
+### Koska tämä on linkitetty jo toiseen repoon, niin tässä on tämän tehtävän repon osoite: https://github.com/Tharoux/webohjelmointi/tree/main/athlete
+
+---
